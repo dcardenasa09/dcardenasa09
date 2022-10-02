@@ -1,9 +1,9 @@
 <h1 align="center">Daniel Cárdenas Arenas</h1>
 <h3 align="center">Desarrollador Full Stack con mas de 7 años de experiencia.</h3>
 
-- 💬 Ask me about **.Net Core, Laravel, Angular, VueJs, Go Lang, Azure**
+- 💬 Preguntame acerca de **.Net Core, Laravel, Angular, VueJs, Go Lang, Azure**
 
-- 📫 How to reach me **danycardenasarenas@gmail.com**
+- 📫 Puedes contactarme en **danycardenasarenas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
