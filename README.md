@@ -1,5 +1,7 @@
 <h1 align="center">Daniel Cárdenas Arenas</h1>
-<h3 align="center">Desarrollador Full Stack con mas de 7 años de experiencia.</h3>
+<h2 align="center">Desarrollador Full Stack</h2>
+<p align="left">Más de 7 años de experiencia trabajando con proyectos de desarrollo de software a la medida que van desde páginas web hasta sistemas de planificación de recursos empresariales (ERP).</p>
+<p align="left">Tengo experiencia en la gestión y organización de equipos de trabajo (como líder de equipo), toma de requerimientos, planeación de tiempos de desarrollo, atención a clientes, posicionamiento en buscadores (SEO) e identificación de lenguaje y tecnología de acuerdo a los requerimientos.</p>
 
 - 💬 Preguntame acerca de **.Net Core, Laravel, Angular, VueJs, Go Lang, Azure**
 
